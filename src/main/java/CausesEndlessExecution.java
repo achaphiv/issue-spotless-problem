@@ -3,7 +3,7 @@ public class CausesEndlessExecution {
   // two
   {
     if (
-      1 == 2
+      true
     ) {}
   }
 }
